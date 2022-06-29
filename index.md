@@ -1,5 +1,5 @@
 ﻿# Robotic Arm
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+Fancy robot arm that can do fancy stuff. Bigger description coming to theaters near you.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -19,11 +19,11 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone which is completing the base project. I’ve completely assembled the arm as well as installed the code. The most enjoyable thing was assembling the arm itself. I like putting things together as well as following assembly instructions. I also enjoyed testing out the code. It was really nice watching the arm move around after assembling it. The hardest thing was compensating for missing parts. I was missing about five bolts of a specific length. I ended up using bolts from the extras bin.
 
 [![First Milestone](https://i3.ytimg.com/vi/iYvvCd2WPno/maxresdefault.jpg)](https://www.youtube.com/watch?v=iYvvCd2WPno)
 # Starter Project
   
-My starter project was the Useless Machine. I soldered and learned that sometimes adding more solder can solve your problems. Some parts I used included motors, snap switches, and LED lights. I enjoyed soldering as it was the newest things I experienced. I struggled with the arm being bent and had to compensate by moving the arm farther from the motor so it would hit the switch. 
+My starter project is the Useless Machine. When the switch is hit, a motor rotates an arm that comes out of the box to reset the switch. After the switch is reset, the motor reverses, bringing the arm back into the box until it hits a snap switch. Hitting the snap switch stops the motor. The most enjoyable part of building this was soldering. Out of all the skills required for assembling the Useless Machine, soldering was the newest skill I’ve learned. I really liked to practice soldering as well as using the solder pump and solder wick when those were needed. The hardest part was figuring out how to install the LED in a place where it wouldn’t interfere with the arm. The arm would hit the LED before the snap switch, which wasn’t supposed to happen. I solved this problem by moving the LED closer to the PCB. After moving the LED, the arm hits the snap switch before the LED. Another problem was the arm missing the switch. The arm would go to the side of the switch, jamming the machine. I fixed this by shifting the arm farther from the motor. If the arm was all the way on the motor shaft, it would miss the switch. However, if the arm was shifted off the shaft, it would hit the switch, allowing the machine to perform as intended. 
 
 [![First Milestone](https://i3.ytimg.com/vi/hdfsLWYfX60/maxresdefault.jpg)](https://youtu.be/hdfsLWYfX60 "First Milestone")

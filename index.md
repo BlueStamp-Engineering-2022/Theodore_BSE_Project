@@ -23,7 +23,7 @@ Drawings for redesigned pieces:
 
 [Plate Drawing](https://user-images.githubusercontent.com/107715173/177888378-fb0ba2e9-2632-42e8-9b92-75dfc5053f7f.png)
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
+[![Third Milestone](https://i3.ytimg.com/vi/CcKDqTcY7Z8/maxresdefault.jpg)](https://www.youtube.com/watch?v=CcKDqTcY7Z8)
 # First Milestone
   
 

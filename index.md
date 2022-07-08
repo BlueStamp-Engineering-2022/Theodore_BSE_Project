@@ -29,7 +29,8 @@ Drawings for redesigned pieces:
 
 My first milestone which is completing the base project. I’ve completely assembled the arm as well as installed the code. The most enjoyable thing was assembling the arm itself. I like putting things together as well as following assembly instructions. I also enjoyed testing out the code. It was really nice watching the arm move around after assembling it. The hardest thing was compensating for missing parts. I was missing about five bolts of a specific length. I ended up using bolts from the extras bin.
 
-I would put a circuit diagram here if I could find a program that had Arduino shields available to diagram.
+Circuit diagram:
+![Controller Circuit Diagram](https://user-images.githubusercontent.com/107715173/178069075-e0ca6bdc-8022-4f85-9246-425932c24e35.jpg)
 
 [![First Milestone](https://i3.ytimg.com/vi/iYvvCd2WPno/maxresdefault.jpg)](https://www.youtube.com/watch?v=iYvvCd2WPno)
 # Starter Project

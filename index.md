@@ -8,13 +8,13 @@ Fancy robot arm that can do fancy stuff. Bigger description coming to theaters n
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVDdOvzsjHaZ6kRbhPwDEacvsOj8owBAT8KYVAfI5y3cG2e9UZff3Z6RKbqsNZN0m3giQEXY09vtPRGtumD81My7v-KLSVOCy_4bC-FVF_M5iS6EKE4DIjKeAGC-YG1hOMCZLJI89xhL0WENvfXWGI=s854-no?authuser=0)
   
 # Third Milestone
-Coming soon to theaters near you 
+For this milestone, I changed the control method from the controller that was provided to potentiometers. Potentiometers are dials that can be programmed to control different things. I have four potentiometers that control the four motors on my robotic arm. The most enjoyable thing was wiring up the breadboard and Arduino. I liked plugging in wires and organizing the breadboard to be as neat as possible. I struggled with getting my motors to stop shaking and respond to my inputs. The motors didn’t respond properly because there wasn’t enough power. I solved this by powering the potentiometers through the Arduino and the motors with batteries.
 
 Circuit Diagram:
 ![Robot Arm Potentiometers](https://user-images.githubusercontent.com/107715173/178082666-44a7ec9c-475a-4919-8a20-7b070ee6a9b3.png)
 Note: The gray servo represents the big servo, not another mini servo.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
+[![Third Milestone](https://i3.ytimg.com/vi/f-qxxKCGI_E/maxresdefault.jpg )](https://www.youtube.com/watch?v=f-qxxKCGI_E)
 
 # Second Milestone
 For this milestone, I replaced the motor that extends and retracts the arm with a stronger motor. Changing the motor stops the arm from stalling while fully extended. I’ve also decreased the movement speed of the motors so it’s easier to control the arm. The most enjoyable thing was designing the modified pieces to hold the larger motor using computer aided design through Onshape. Because the motor I was replacing was much smaller than its replacement, I had to redesign one of the sides of the arm to be able to install the big motor. I redesigned three pieces: the side, the motor retainer, and part of the arm itself. The hardest things were replacing the motors and properly powering the arm. After I accidentally fried my Arduino, I had to replace it as well as all my motors excluding the big one. It was hard because of how time consuming it was. After replacing all the motors and installing the bigger one, I couldn’t properly power my arm. The main cause of this problem was one of the replaced servos taking excessive power, leading to my arm not having sufficient power. After replacing the faulty motor, power was correctly distributed and my robotic arm worked as I wanted it to.

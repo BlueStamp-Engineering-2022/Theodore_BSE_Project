@@ -1,5 +1,5 @@
 ﻿# Robotic Arm
-Fancy robot arm that can do fancy stuff. 
+Fancy robot arm that can do fancy robot stuff. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

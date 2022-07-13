@@ -1,5 +1,5 @@
 ﻿# Robotic Arm
-Fancy robot arm that can do fancy stuff. Bigger description coming to theaters near you.
+Fancy robot arm that can do fancy stuff. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

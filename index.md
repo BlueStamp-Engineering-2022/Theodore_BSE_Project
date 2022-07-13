@@ -7,6 +7,26 @@ Fancy robot arm that can do fancy robot stuff.
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVDdOvzsjHaZ6kRbhPwDEacvsOj8owBAT8KYVAfI5y3cG2e9UZff3Z6RKbqsNZN0m3giQEXY09vtPRGtumD81My7v-KLSVOCy_4bC-FVF_M5iS6EKE4DIjKeAGC-YG1hOMCZLJI89xhL0WENvfXWGI=s854-no?authuser=0)
   
+  # Final Milestone
+Yay
+
+Drawings:
+
+[Modified Base Plate](https://user-images.githubusercontent.com/107715173/178850552-02a10afe-c7a6-45a2-abc1-32f871d8d65e.png)
+
+[Battery Holder](https://user-images.githubusercontent.com/107715173/178850645-cd6d99b0-8840-4ab6-8101-7626de9fa6ae.png)
+
+[Arduino Pin](https://user-images.githubusercontent.com/107715173/178850687-de9dda6c-b9f5-404d-92ce-90269a594537.png)
+
+[Breadboard Hook](https://user-images.githubusercontent.com/107715173/178850707-cf5510ba-95b2-4c09-ab8b-22754c56dade.png)
+
+[Battery Hook](https://user-images.githubusercontent.com/107715173/178850733-9e4ea818-31f1-4a3f-9b91-13eab231ab94.png)
+
+[Battery Pin](https://user-images.githubusercontent.com/107715173/178850749-65f22add-013d-4ad1-ae81-1bbd610d15fb.png)
+
+
+[![Third Milestone](https://i3.ytimg.com/vi/f-qxxKCGI_E/maxresdefault.jpg )](https://www.youtube.com/watch?v=f-qxxKCGI_E)
+
 # Third Milestone
 For this milestone, I changed the control method from the controller that was provided to potentiometers. Potentiometers are dials that can be programmed to control different things. I have four potentiometers that control the four motors on my robotic arm. The most enjoyable thing was wiring up the breadboard and Arduino. I liked plugging in wires and organizing the breadboard to be as neat as possible. I struggled with getting my motors to stop shaking and respond to my inputs. The motors didn’t respond properly because there wasn’t enough power. I solved this by powering the potentiometers through the Arduino and the motors with batteries.
 

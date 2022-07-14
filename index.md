@@ -8,24 +8,26 @@ Fancy robot arm that can do fancy robot stuff.
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVDdOvzsjHaZ6kRbhPwDEacvsOj8owBAT8KYVAfI5y3cG2e9UZff3Z6RKbqsNZN0m3giQEXY09vtPRGtumD81My7v-KLSVOCy_4bC-FVF_M5iS6EKE4DIjKeAGC-YG1hOMCZLJI89xhL0WENvfXWGI=s854-no?authuser=0)
   
   # Final Milestone
-Yay
+For this milestone, I modified the base plate to hold all the components. The most enjoyable thing was designing the plate and the various pieces. The hardest thing was measuring out the physical components to make models in the CAD program as well as figuirng out how to secure the components onto the base plate.
 
 Drawings:
 
-[Modified Base Plate](https://user-images.githubusercontent.com/107715173/178850552-02a10afe-c7a6-45a2-abc1-32f871d8d65e.png)
+Modified Base Plate
+![Base Plate (1)](https://user-images.githubusercontent.com/107715173/179078354-7f20c00c-1cc3-4246-9afd-5652f8d9d3d4.png)
+Battery Holder
+![Battery Holder](https://user-images.githubusercontent.com/107715173/178850645-cd6d99b0-8840-4ab6-8101-7626de9fa6ae.png)
+Arduino Pin
+![Arduino Pin](https://user-images.githubusercontent.com/107715173/178850687-de9dda6c-b9f5-404d-92ce-90269a594537.png)
+Breadboard Hook
+![Breadboard Hook](https://user-images.githubusercontent.com/107715173/178850707-cf5510ba-95b2-4c09-ab8b-22754c56dade.png)
+Battery Hook
+![Battery Hook](https://user-images.githubusercontent.com/107715173/178850733-9e4ea818-31f1-4a3f-9b91-13eab231ab94.png)
+Battery Pin
+![Battery Pin](https://user-images.githubusercontent.com/107715173/178850749-65f22add-013d-4ad1-ae81-1bbd610d15fb.png)
 
-[Battery Holder](https://user-images.githubusercontent.com/107715173/178850645-cd6d99b0-8840-4ab6-8101-7626de9fa6ae.png)
+Final Product:
+![20220714_134014](https://user-images.githubusercontent.com/107715173/179079708-4cf3c840-1db9-4f58-b8d1-293ff5d93d31.jpg)
 
-[Arduino Pin](https://user-images.githubusercontent.com/107715173/178850687-de9dda6c-b9f5-404d-92ce-90269a594537.png)
-
-[Breadboard Hook](https://user-images.githubusercontent.com/107715173/178850707-cf5510ba-95b2-4c09-ab8b-22754c56dade.png)
-
-[Battery Hook](https://user-images.githubusercontent.com/107715173/178850733-9e4ea818-31f1-4a3f-9b91-13eab231ab94.png)
-
-[Battery Pin](https://user-images.githubusercontent.com/107715173/178850749-65f22add-013d-4ad1-ae81-1bbd610d15fb.png)
-
-
-[![Third Milestone](https://i3.ytimg.com/vi/f-qxxKCGI_E/maxresdefault.jpg )](https://www.youtube.com/watch?v=f-qxxKCGI_E)
 
 # Third Milestone
 For this milestone, I changed the control method from the controller that was provided to potentiometers. Potentiometers are dials that can be programmed to control different things. I have four potentiometers that control the four motors on my robotic arm. The most enjoyable thing was wiring up the breadboard and Arduino. I liked plugging in wires and organizing the breadboard to be as neat as possible. I struggled with getting my motors to stop shaking and respond to my inputs. The motors didn’t respond properly because there wasn’t enough power. I solved this by powering the potentiometers through the Arduino and the motors with batteries.
@@ -41,11 +43,11 @@ For this milestone, I replaced the motor that extends and retracts the arm with 
 
 Drawings for redesigned pieces:
 
-[Arm Drawing](https://user-images.githubusercontent.com/107715173/177888235-1c114e3d-3a64-467d-8b86-62cf23a385a0.png)
+![Arm Drawing](https://user-images.githubusercontent.com/107715173/177888235-1c114e3d-3a64-467d-8b86-62cf23a385a0.png)
 
-[Motor Retainer Drawing](https://user-images.githubusercontent.com/107715173/177888373-fe458464-ec6f-473a-a8f7-b06a2deae2fa.png)
+![Motor Retainer Drawing](https://user-images.githubusercontent.com/107715173/177888373-fe458464-ec6f-473a-a8f7-b06a2deae2fa.png)
 
-[Plate Drawing](https://user-images.githubusercontent.com/107715173/177888378-fb0ba2e9-2632-42e8-9b92-75dfc5053f7f.png)
+![Plate Drawing](https://user-images.githubusercontent.com/107715173/177888378-fb0ba2e9-2632-42e8-9b92-75dfc5053f7f.png)
 
 [![Third Milestone](https://i3.ytimg.com/vi/CcKDqTcY7Z8/maxresdefault.jpg)](https://www.youtube.com/watch?v=CcKDqTcY7Z8)
 # First Milestone

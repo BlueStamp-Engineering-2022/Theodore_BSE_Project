@@ -8,7 +8,7 @@ Fancy robot arm that can do fancy robot stuff.
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVDdOvzsjHaZ6kRbhPwDEacvsOj8owBAT8KYVAfI5y3cG2e9UZff3Z6RKbqsNZN0m3giQEXY09vtPRGtumD81My7v-KLSVOCy_4bC-FVF_M5iS6EKE4DIjKeAGC-YG1hOMCZLJI89xhL0WENvfXWGI=s854-no?authuser=0)
   
   # Final Milestone
-For this milestone, I modified the base plate to hold all the components. The most enjoyable thing was designing the plate and the various pieces. The hardest thing was measuring out the physical components to make models in the CAD program as well as figuirng out how to secure the components onto the base plate.
+For this milestone, I modified the base plate to hold all the components. The most enjoyable thing was designing the plate and the various pieces. The hardest thing was measuring out the physical components to make models in the CAD program as well as figuring out how to secure the components onto the base plate. I had to make sure the dimensions had to be accurate otherwise I’d have to recut the base plate and that would waste a lot of time. 
 
 Drawings:
 

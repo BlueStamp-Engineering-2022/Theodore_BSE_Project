@@ -3,7 +3,7 @@ Fancy robot arm that can do fancy robot stuff.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Theodore Mah | Pioneer High School | Mechanical Engineering | Incoming Senior
+| Theodore | Pioneer High School | Mechanical Engineering | Incoming Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVDdOvzsjHaZ6kRbhPwDEacvsOj8owBAT8KYVAfI5y3cG2e9UZff3Z6RKbqsNZN0m3giQEXY09vtPRGtumD81My7v-KLSVOCy_4bC-FVF_M5iS6EKE4DIjKeAGC-YG1hOMCZLJI89xhL0WENvfXWGI=s854-no?authuser=0)
   

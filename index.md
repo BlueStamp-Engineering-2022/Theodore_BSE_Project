@@ -28,6 +28,7 @@ Battery Pin
 Final Product:
 ![20220714_134014](https://user-images.githubusercontent.com/107715173/179079708-4cf3c840-1db9-4f58-b8d1-293ff5d93d31.jpg)
 
+[![Final Milestone](https://i3.ytimg.com/vi/xAb3Iol0uWw/maxresdefault.jpg)](https://www.youtube.com/watch?v=xAb3Iol0uWw)
 
 # Third Milestone
 For this milestone, I changed the control method from the controller that was provided to potentiometers. Potentiometers are dials that can be programmed to control different things. I have four potentiometers that control the four motors on my robotic arm. The most enjoyable thing was wiring up the breadboard and Arduino. I liked plugging in wires and organizing the breadboard to be as neat as possible. I struggled with getting my motors to stop shaking and respond to my inputs. The motors didn’t respond properly because there wasn’t enough power. I solved this by powering the potentiometers through the Arduino and the motors with batteries.
